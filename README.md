@@ -1,4 +1,4 @@
-## BLACKEYE v1.5
+## BLACKEYE v2.1
 ### UPDATES :
 ##### Added 10 new websites from the Pro version!
 ##### The tool is completely free now
